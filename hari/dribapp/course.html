@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>courses</title>
+    <style>
+        .product-card {
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            padding: 15px;
+            transition: course 0.3s ease;
+        }
+
+        .product-card:hover {
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
+        }
+
+        .product-image {
+            height: 200px;
+            object-fit: contain;
+            margin-bottom: 10px;
+        }
+
+        .rating {
+            color: #f5c518;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container py-4">
+        <h2 class="mb-4">Featured courses/paid courses</h2>
+        <div class="row row-cols-1 row-cols-md-3 g-4">
+
+
+            <div class="col">
+                <div class="course-cardtext-center">
+                    <img src="Screenshot 2025-10-16 094906.png" alt="course 1">
+                    <h5 class="mt-2">Data Science</h5>
+                    <p class="text-success fw-bold">₹2,499</p>
+                    <p class="rating">★★★★☆ (4.2)</p>
+                    <button class="btn btn-primary">Add the course</button>
+                </div>
+            </div>
+
+            <div class="col">
+                <div class="product-card text-center">
+                    <img src="Screenshot 2025-10-16 094957.png" alt="course 2">
+                    <h5 class="mt-2">Software Development</h5>
+                    <p class="text-success fw-bold">₹5,999</p>
+                    <p class="rating">★★★★★ (4.8)</p>
+                    <button class="btn btn-primary">Add the course</button>
+                </div>
+            </div>
+
+            <div class="col">
+                <div class="product-card text-center">
+                    <img src="Screenshot 2025-10-16 103820.png" alt="course 3">
+                    <h5 class="mt-2">Cyber Security</h5>
+                    <p class="text-success fw-bold">₹299</p>
+                    <p class="rating">★★★☆☆ (3.9)</p>
+                    <button class="btn btn-primary">Add the course</button>
+                </div>
+            </div>
+
+
+        </div>
+    </div>
+</body>
+
+</html>
