@@ -169,18 +169,17 @@ course.html
 
 
 ## OUTPUT:
+![alt text](<img 1.png>)
 
-![alt text](<Screenshot 2025-10-16 105327.png>)
+![alt text](<img 2.png>)
 
-![alt text](<Screenshot 2025-10-16 105439.png>)
+![alt text](<img 3.png>)
 
-![alt text](<Screenshot 2025-10-16 105449.png>)
+![alt text](<img 4.png>)
 
-![alt text](<Screenshot 2025-10-16 105518.png>)
+![alt text](<img 5.png>)
 
-![alt text](<Screenshot 2025-10-16 105529.png>)
-
-![alt text](<Screenshot 2025-10-16 105543.png>)
+![alt text](<img 6.png>)
 
 
 ## RESULT:
